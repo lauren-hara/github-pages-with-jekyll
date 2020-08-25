@@ -1,7 +1,5 @@
----
 title: "Welcome to my blog"
 date: 2020-08-24
----
 
 theme: minima
 title: Roof Dragons TM
