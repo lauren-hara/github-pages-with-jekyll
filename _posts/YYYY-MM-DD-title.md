@@ -1,10 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Roof Dragons R Us"
+date: 2020-08-25
+---
+
+theme: minima
+title: Roof Dragons TM
+author: OG Roof Dragon
+email: nyb@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Roof Dragons. Nuff said
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
